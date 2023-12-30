@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Full Stack**
 
-- 🌱 I’m currently learning **Backend web development**
-
 - 👨‍💻 All my social media are available at: [https://bio.link/abhinavashish](https://bio.link/abhinavashish)
 
 - 📝 I regularly write articles on [https://abhinavashish15.blogspot.com/](https://abhinavashish15.blogspot.com/)
